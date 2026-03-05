@@ -83,5 +83,5 @@ model.fit(
 )
 
 # --- 6. SAVE ---
-model.save("food_ranker_improved(1).keras")
+model.save("/home/chaiyapruk/ComVision_train/Food_voting_trainedfood_ranker_improved(2).keras")
 print("Training finished. Model saved.")

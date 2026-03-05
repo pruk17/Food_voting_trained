@@ -46,5 +46,5 @@ for _, row in df_test.iterrows():
 
 # 3. บันทึกผลลงไฟล์ใหม่เพื่อส่งงาน [cite: 44]
 df_test['Winner'] = results
-df_test.to_csv("test_result(1).csv", index=False)
+df_test.to_csv("/home/chaiyapruk/ComVision_train/Food_voting_trainedtest_result(2).csv", index=False)
 print("Saved result to test_result.csv")
